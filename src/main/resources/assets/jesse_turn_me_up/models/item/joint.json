@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "jesse_turn_me_up:item/joint_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "jesse_turn_me_up:item/joint_3d"
+    },
+    "ground": {
+      "parent": "jesse_turn_me_up:item/joint_3d"
+    },
+    "fixed": {
+      "parent": "jesse_turn_me_up:item/joint_3d"
+    }
+  }
+}

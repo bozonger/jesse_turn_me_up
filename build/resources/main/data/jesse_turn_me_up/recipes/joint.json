@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "   ",
+    "###",
+    "PPP"
+  ],
+  "key": {
+    "#": {
+      "item": "jesse_turn_me_up:hash"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "jesse_turn_me_up:joint"
+  }
+}

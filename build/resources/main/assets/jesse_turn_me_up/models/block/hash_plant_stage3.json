@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "jesse_turn_me_up:block/hash_plant_stage3"
+  },
+  "render_type": "cutout"
+}
